@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
   <rss version="2.0">
     <channel>
-      <Title>NOTICIONES</Title>
+      <title>NOTICIONES</Title>
       <link>https://github.com/Dansarasix-DML</link>
       <description>Este será mi canal predefinido</description>
+      <category>Noticias Generales</category>
+      <item>
+        <title>Barco Pesquero naufraguó en aguas de Canadá</title>
+        <url>https://twitter.com/AsocMaltratados/status/1493954621592719361</url>
+        <description>
+          Ayer naufragó en aguas de Canadá un barco pesquero que salió de Galicia.
+          El 100% de sus tripulantes eran hombres. 3 han sido hallados con vida,
+          mientras que 21 han fallecido o continuan desaparecidos.
+        </description>
+      </item>
+      <item>
+        <title>Consejos de San Valentín</title>
+        <url>https://twitter.com/AsocMaltratados/status/1493271698602405890</url>
+        <description>
+          Hoy es San Valentín, y nos pareció una excelente oportunidad
+          para hablar de aquellas cosas que, para una relación saludable,
+          tenemos que dejar de tolerar.
+        </description>
+      </item>
+      <item>
+        <title>Jovén se enfrenta a las nuevas políticas de igualdad</title>
+        <url>https://twitter.com/AsocMaltratados/status/1492128553646891015</url>
+        <description>
+          Un joven en España se ha enfrentado a las nuevas políticas que les
+          arrebata su derecho a la Igualdad en el acceso a las plazas. Esto sucedió
+          en el Ayuntamiento de Tarrasa, en Barcelona. Bravo por él.
+        </description>
+      </item>
+      <item>
+        <title>Todas las personas merecen un juicio justo</title>
+        <url>https://twitter.com/AsocMaltratados/status/1491445150798987266</url>
+        <description>
+          La Declaración Universal de Derechos Humanos dice que todas las personas
+          tienen derecho a un juicio justo. Entonces nos ponemos a pensar en las
+          detencione por viogen, en los juicios rápidos y en los juzgados
+          de violencia contra la mujer.
+        </description>
+      </item>
       <copyright>Derechos reservados a Daniel Marín López</copyright>
+      <generator>GitHub</generator>
       <language>es-es</language>
     </channel>
   </rss>
