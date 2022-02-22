@@ -6,6 +6,18 @@
     <description>
       Este será mi canal predefinido. Por Daniel Marín López
     </description>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
     <category>Noticias Generales</category>
     <item>
       <title>Barco Pesquero naufraguó en aguas de Canadá</title>
