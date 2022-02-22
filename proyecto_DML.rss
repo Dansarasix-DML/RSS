@@ -3,7 +3,10 @@
   <channel>
     <title>NOTICIONES</title>
     <link>https://github.com/Dansarasix-DML</link>
-    <description>Este será mi canal predefinido</description>
+    <description>
+      Este será mi canal predefinido
+      Por Daniel Marín López
+    </description>
     <category>Noticias Generales</category>
     <item>
       <title>Barco Pesquero naufraguó en aguas de Canadá</title>
